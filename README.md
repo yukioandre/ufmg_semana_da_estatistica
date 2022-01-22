@@ -1,10 +1,10 @@
 # Semana da Estatística UFMG
 
-## Material apresentado na semana da estatística na UFMG
+## Título da palestra: Machine Learning do Zero
 
-### Título da palestra: Machine Learning do Zero
+Temos aqui o material apresentado no meu workshop na semana da estatística na UFMG.
 
-O arquivo principal, que contém o que foi passado na palestra, é o: https://github.com/yukioandre/ufmg_semana_da_estatistica/blob/main/files/ml_do_zero_UFMG.ipynb
+O arquivo principal é o: https://github.com/yukioandre/ufmg_semana_da_estatistica/blob/main/files/ml_do_zero_UFMG.ipynb
 
 Link do dataset utilizado: https://www.kaggle.com/uciml/german-credit
 
